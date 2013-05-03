@@ -1,5 +1,6 @@
 body {
 	background-image: url(map.jpg);
+	background-repeat: repeat;
 }
 .wrapper {
 	background-color: #06F;
