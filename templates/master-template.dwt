@@ -12,18 +12,18 @@
 
 <div class="wrapper">
 	<img src="../Untitled-2.jpg" width="950" height="150" alt="skyline" />
-	<ul>
-		<li><a>Home</a>
+  <ul class="nav">
+		<li><a><strong>Home</strong></a>
+		  </li>
+		<li><a> <strong>Places</strong></a>
 			</li>
-		<li><a>Places</a>
-			</li>
-		<li><a>Videos</a>
-			</li>
-		<li><a>About Me</a>
+		<li><a><strong>Videos</strong></a>
 		</li>
-</ul>
+		<li><a><strong>About Me</strong></a>
+	  </li>
+  </ul>
 	<div class="content">
-	<h1> The Places You'll Go</h1>
+	<h1> The Places You'll Go!</h1>
 	<div class="main"><!-- TemplateBeginEditable name="Content" -->
       <p> This is a place holder</p>
     <!-- TemplateEndEditable --></div>
