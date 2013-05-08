@@ -58,3 +58,13 @@ p1 {
 color: #222625;	
 }
 	
+.bronx {
+	font-size: 36px;
+	margin-left: 40px;
+}
+.choices {
+	font-size: 24px;
+	font-style: normal;
+	text-align: center;
+	display: inline;
+}
