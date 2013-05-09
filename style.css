@@ -1,6 +1,8 @@
 body {
 	background-image: url(map.jpg);
 	background-repeat: repeat;
+	margin-bottom: 400px;
+	padding-bottom: 400px;
 }
 .wrapper {
 	background-color: #f29c68;
@@ -59,7 +61,7 @@ color: #222625;
 }
 	
 .bronx {
-	font-size: 36px;
+	font-size: 24px;
 	margin-left: 40px;
 }
 .choices {
@@ -73,7 +75,10 @@ color: #222625;
 }
 .wave-text {
 	padding: 20px;
-	margin: 20px;
 	top: 20px;
 	bottom: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 40px;
+	margin-left: 20px;
 }

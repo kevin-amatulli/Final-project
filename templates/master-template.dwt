@@ -13,7 +13,7 @@
 <div class="wrapper">
 	<img src="../Untitled-2.jpg" width="950" height="150" alt="skyline" />
   <ul class="nav">
-		<li><a><strong>Home</strong></a>
+		<li><a href="../index.html"><strong>Home</strong></a>
 		  </li>
 		<li><a> <strong>Places</strong></a>
 			</li>
