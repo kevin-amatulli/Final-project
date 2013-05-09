@@ -68,3 +68,12 @@ color: #222625;
 	text-align: center;
 	display: inline;
 }
+.hill {
+	text-align: center;
+}
+.wave-text {
+	padding: 20px;
+	margin: 20px;
+	top: 20px;
+	bottom: 20px;
+}
